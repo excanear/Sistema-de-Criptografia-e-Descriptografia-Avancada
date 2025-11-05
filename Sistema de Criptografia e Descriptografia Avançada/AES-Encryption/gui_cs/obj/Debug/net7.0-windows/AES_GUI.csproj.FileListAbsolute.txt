@@ -1,0 +1,15 @@
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.AssemblyInfoInputs.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.AssemblyInfo.cs
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.sourcelink.json
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\bin\Debug\net7.0-windows\AES_GUI.exe
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\bin\Debug\net7.0-windows\AES_GUI.deps.json
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\bin\Debug\net7.0-windows\AES_GUI.runtimeconfig.json
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\bin\Debug\net7.0-windows\AES_GUI.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\bin\Debug\net7.0-windows\AES_GUI.pdb
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\refint\AES_GUI.dll
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.pdb
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\AES_GUI.genruntimeconfig.cache
+C:\Users\Henry\OneDrive\Área de Trabalho\Sistema de Criptografia e Descriptografia Avançada\AES-Encryption\gui_cs\obj\Debug\net7.0-windows\ref\AES_GUI.dll
