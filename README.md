@@ -93,12 +93,6 @@ Pull requests são bem-vindos. Antes de enviar PRs, por favor:
 - Abra uma issue descrevendo a mudança ou bug.
 - Mantenha o assembly e o estilo consistente com os arquivos existentes.
 
-## Créditos e referências
-Implementação original: autor do repositório original (veja histórico do GitHub).
-
-Recursos para entender AES:
-- AES Explained (Computerphile): https://youtu.be/O4xNJsjtN6E
-- Animação explicativa do Rijndael: https://youtu.be/gP4PqVGudtg
 
 ## Licença
 Veja o arquivo `LICENSE` neste repositório.
